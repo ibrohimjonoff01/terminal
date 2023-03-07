@@ -1,0 +1,13 @@
+body {
+    background-color: #07080d;
+}
+main h1 {
+    font-size: 120px;
+    font-style: italic;
+    font-weight: bold;
+}
+@media (max-width:950px){
+main h1 {
+    font-size: 60px;
+}
+}
